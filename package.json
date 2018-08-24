@@ -1,0 +1,26 @@
+{
+  "name": "pathfinder2-unofficial",
+  "version": "1.0.0",
+  "description": "PF2 Sheet WIP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bastlifa/Pathfinder2-Unofficial.git"
+  },
+  "keywords": [
+    "Roll20",
+    "Pathfinder",
+    "Playtest",
+    "RPG",
+    "Sheet"
+  ],
+  "author": "Bastlifa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bastlifa/Pathfinder2-Unofficial/issues"
+  },
+  "homepage": "https://github.com/Bastlifa/Pathfinder2-Unofficial#readme"
+}
