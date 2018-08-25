@@ -4,6 +4,6 @@
     position: relative;
 }
 
-.sheet-CharDetails{
+.sheet-CharDetails input[type=test]{
     border: none;
 }
